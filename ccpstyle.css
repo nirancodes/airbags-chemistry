@@ -73,7 +73,7 @@ html,body
 header{
     width: 100vw; 
     height: 100vh; 
-    background-image: url(https://www.dropbox.com/s/zk8rfjohi93b4n0/airbagbackground.png?raw=1);
+    background-image: url("https://www.dropbox.com/s/zk8rfjohi93b4n0/airbagbackground.png?raw=1");
     background-position: center;
     background-size: cover;
     display: flex; 
@@ -298,7 +298,7 @@ header{
 
 /*download*/
 .download-up{
-    background: url(https://www.dropbox.com/s/ztckt8lq1inbjlt/airbag.png?raw=1); 
+    background: url("https://www.dropbox.com/s/ztckt8lq1inbjlt/airbag.png?raw=1"); 
     min-height: 50vh; 
     display: flex; 
     align-items: center;
